@@ -1,0 +1,1 @@
+# inventoryDemo-mobileApp-koresol
